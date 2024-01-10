@@ -2,7 +2,7 @@
 
 ---------
 
-  - 🎓 Mathematician (BSc, MSc), data scientist (MSc) and epidemiologist (MSc). Currently, PhD student in Clinical Medicine and Public Health.
+  - 🎓 PhD in Clinical Medicine and Public Health, mathematician (BSc, MSc), data scientist (MSc) and epidemiologist (MSc).
 
   - 💻 I’m a R-Shiny developer with focus on process automation, ETL, machine learning and data visualization.
   
