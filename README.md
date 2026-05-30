@@ -6,7 +6,7 @@
 
   - 💻 I'm a R developer with focus on process automation, ETL, machine learning and data visualization.
   
-  - 📦 R packages: creator of [`{rfutbin}`](https://github.com/danielredondo/rfutbin), contributor in [`{KnowSeq}`](https://github.com/CasedUgr/KnowSeq). Coauthor of the Stata module [cvauroc](https://journals.sagepub.com/doi/full/10.1177/1536867X19874237)
+  - 📦 R packages: creator of [`{rfutbin}`](https://github.com/danielredondo/rfutbin), contributor in [`{KnowSeq}`](https://github.com/CasedUgr/KnowSeq). Coauthor of the Stata module [`cvauroc`](https://journals.sagepub.com/doi/full/10.1177/1536867X19874237).
 
   - 🔭 I'm working on cancer research at CIBERESP.
 
